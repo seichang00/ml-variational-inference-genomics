@@ -7,3 +7,5 @@ Implementing variational inference algorithm for Bayesian probabilistic inferenc
 
 #### Technical Blog References
 - [Machine Learning - Variational Inference, Jonathan Hui](https://jonathan-hui.medium.com/machine-learning-variational-inference-273d8e6480bb#:~:text=In%20variational%20inferencing%2C%20we%20model,partition%20function%20is%20usually%20nasty.)
+- [Variational Inference - Zhiya Zuo](https://zhiyzuo.github.io/VI/)
+- [Variational Inference: Python Demo - Machine Learning & Simulation](https://www.youtube.com/watch?v=u4BJdBCDR9w)
