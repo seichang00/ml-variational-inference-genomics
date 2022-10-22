@@ -3,7 +3,7 @@ Implementing variational inference algorithm for Bayesian probabilistic inferenc
 
 #### CIFAR Dataset
 
-[CIFAR 10 Dataset Download Link](https://www.cs.toronto.edu/kriz/cifar.html). Each image is processed as one long 3*32*32-dimensional vector or a 3-dimensional vector containing the average RGB value of the image’s pixels.
+[CIFAR 10 Dataset Download Link](https://www.cs.toronto.edu/kriz/cifar.html). Each image is processed as one long 3x32x32-dimensional vector or a 3-dimensional vector containing the average RGB value of the image’s pixels.
 
 #### Paper References
 - [Probabilistic Inference of Alternative Splicing Events in Microarray Data, NeurIPS 2004](https://proceedings.neurips.cc/paper/2004/hash/94aef38441efa3380a3bed3faf1f9d5d-Abstract.html)
